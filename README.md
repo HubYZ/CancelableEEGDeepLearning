@@ -1,2 +1,2 @@
 # CancelableEEGDeepLearning
-Cancelabel EEG Deep Learning Framework
+Coming soon ...
